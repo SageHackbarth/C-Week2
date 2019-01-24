@@ -1,0 +1,6 @@
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\bin\Debug\SageHackbarthWeek2.Shared.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\bin\Debug\SageHackbarthWeek2.Shared.pdb
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\obj\Debug\SageHackbarthWeek2.Shared.csprojAssemblyReference.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\obj\Debug\SageHackbarthWeek2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\obj\Debug\SageHackbarthWeek2.Shared.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthWeek2\SageHackbarthWeek2.Shared\obj\Debug\SageHackbarthWeek2.Shared.pdb
